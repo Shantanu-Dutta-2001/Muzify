@@ -41,7 +41,7 @@ The application displays the list of all the mp3 format file in your phone and f
 
 **APPLICATION LOGO**
 
-![LOGO](app\src\main\res\drawable\muzify.jpg)
+![LOGO](muzify.jpeg)
 
 ## Made with:
 
@@ -49,8 +49,8 @@ The application displays the list of all the mp3 format file in your phone and f
 
 ## Minimum Requirement:
 
-**ANDROID VERSION 4**
-**MINIMUM RAM REQUIRED :500 MB**
+- **ANDROID VERSION 4**
+- **MINIMUM RAM REQUIRED :500 MB**
 
 
 
