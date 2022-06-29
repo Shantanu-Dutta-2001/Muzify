@@ -37,11 +37,6 @@ The application displays the list of all the mp3 format file in your phone and f
 ![JAVA](https://img.icons8.com/color/48/000000/java.png) 
 
 
-## Screenshots
-
-**APPLICATION LOGO**
-
-![LOGO](muzify.jpeg)
 
 ## Made with:
 
